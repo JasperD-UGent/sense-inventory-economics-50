@@ -1,5 +1,5 @@
 {
-  "acci\u00f3n|NOUN": {
+  "acci\u00f3n|NOUN|f": {
     "1": {
       "description_ES": "actividad o efecto realizado por un agente",
       "l_example_sents": [
@@ -208,7 +208,7 @@
       ]
     }
   },
-  "administraci\u00f3n|NOUN": {
+  "administraci\u00f3n|NOUN|f": {
     "1": {
       "description_ES": "organizaci\u00f3n y gesti\u00f3n (econ\u00f3mica), y oficina desde la que se lo hace",
       "l_example_sents": [
@@ -393,7 +393,7 @@
       ]
     }
   },
-  "aplicaci\u00f3n|NOUN": {
+  "aplicaci\u00f3n|NOUN|f": {
     "1": {
       "description_ES": "colocaci\u00f3n, administraci\u00f3n",
       "l_example_sents": [
@@ -542,7 +542,7 @@
       ]
     }
   },
-  "asociaci\u00f3n|NOUN": {
+  "asociaci\u00f3n|NOUN|f": {
     "1": {
       "description_ES": "establecimiento de una relaci\u00f3n entre dos o m\u00e1s entidades, objetos o ideas",
       "l_example_sents": [
@@ -611,7 +611,7 @@
       ]
     }
   },
-  "balance|NOUN": {
+  "balance|NOUN|m": {
     "1": {
       "description_ES": "revisi\u00f3n del estado de las cuentas (especialmente de empresas)",
       "l_example_sents": [
@@ -656,7 +656,7 @@
       ]
     }
   },
-  "bono|NOUN": {
+  "bono|NOUN|m": {
     "1": {
       "description_ES": "vale para canjear",
       "l_example_sents": [
@@ -726,7 +726,7 @@
       ]
     }
   },
-  "colocaci\u00f3n|NOUN": {
+  "colocaci\u00f3n|NOUN|f": {
     "1": {
       "description_ES": "disposici\u00f3n en un lugar",
       "l_example_sents": [
@@ -834,7 +834,7 @@
       ]
     }
   },
-  "comisi\u00f3n|NOUN": {
+  "comisi\u00f3n|NOUN|f": {
     "1": {
       "description_ES": "comit\u00e9",
       "l_example_sents": [
@@ -974,7 +974,7 @@
       ]
     }
   },
-  "compa\u00f1\u00eda|NOUN": {
+  "compa\u00f1\u00eda|NOUN|f": {
     "1": {
       "description_ES": "acompa\u00f1amiento",
       "l_example_sents": [
@@ -1093,7 +1093,7 @@
       ]
     }
   },
-  "competencia|NOUN": {
+  "competencia|NOUN|f": {
     "1": {
       "description_ES": "oposici\u00f3n, rivalidad",
       "l_example_sents": [
@@ -1206,7 +1206,7 @@
       ]
     }
   },
-  "concesi\u00f3n|NOUN": {
+  "concesi\u00f3n|NOUN|f": {
     "1": {
       "description_ES": "adjudicaci\u00f3n, entrega",
       "l_example_sents": [
@@ -1277,7 +1277,7 @@
       ]
     }
   },
-  "cotizaci\u00f3n|NOUN": {
+  "cotizaci\u00f3n|NOUN|f": {
     "1": {
       "description_ES": "pago de una cuota",
       "l_example_sents": [
@@ -1361,7 +1361,7 @@
       ]
     }
   },
-  "crecimiento|NOUN": {
+  "crecimiento|NOUN|m": {
     "1": {
       "description_ES": "aumento f\u00edsico de un ser vivo",
       "l_example_sents": [
@@ -1432,7 +1432,7 @@
       ]
     }
   },
-  "cuota|NOUN": {
+  "cuota|NOUN|f": {
     "1": {
       "description_ES": "cantidad de dinero que se debe pagar",
       "l_example_sents": [
@@ -1479,7 +1479,7 @@
       ]
     }
   },
-  "demanda|NOUN": {
+  "demanda|NOUN|f": {
     "1": {
       "description_ES": "petici\u00f3n, solicitud (especialmente de una cantidad de mercanc\u00edas)",
       "l_example_sents": [
@@ -1528,7 +1528,7 @@
       ]
     }
   },
-  "descuento|NOUN": {
+  "descuento|NOUN|m": {
     "1": {
       "description_ES": "rebaja (especialmente en un precio)",
       "l_example_sents": [
@@ -1593,7 +1593,7 @@
       ]
     }
   },
-  "deuda|NOUN": {
+  "deuda|NOUN|f": {
     "1": {
       "description_ES": "cantidad de dinero que se debe pagar",
       "l_example_sents": [
@@ -1710,7 +1710,7 @@
       ]
     }
   },
-  "distribuci\u00f3n|NOUN": {
+  "distribuci\u00f3n|NOUN|f": {
     "1": {
       "description_ES": "reparto o colocaci\u00f3n de las partes de un todo",
       "l_example_sents": [
@@ -1791,7 +1791,7 @@
       ]
     }
   },
-  "divisa|NOUN": {
+  "divisa|NOUN|f": {
     "1": {
       "description_ES": "moneda extranjera",
       "l_example_sents": [
@@ -1852,7 +1852,7 @@
       ]
     }
   },
-  "divisi\u00f3n|NOUN": {
+  "divisi\u00f3n|NOUN|f": {
     "1": {
       "description_ES": "grupo, departamento (especialmente en una empresa)",
       "l_example_sents": [
@@ -1990,7 +1990,7 @@
       ]
     }
   },
-  "d\u00e9ficit|NOUN": {
+  "d\u00e9ficit|NOUN|m": {
     "1": {
       "description_ES": "diferencia entre los ingresos y gastos",
       "l_example_sents": [
@@ -2060,7 +2060,7 @@
       ]
     }
   },
-  "ejercicio|NOUN": {
+  "ejercicio|NOUN|m": {
     "1": {
       "description_ES": "realizaci\u00f3n de una facultad, derecho o profesi\u00f3n",
       "l_example_sents": [
@@ -2200,7 +2200,7 @@
       ]
     }
   },
-  "emisi\u00f3n|NOUN": {
+  "emisi\u00f3n|NOUN|f": {
     "1": {
       "description_ES": "expulsi\u00f3n de una materia",
       "l_example_sents": [
@@ -2303,7 +2303,7 @@
       ]
     }
   },
-  "empleo|NOUN": {
+  "empleo|NOUN|m": {
     "1": {
       "description_ES": "utilizaci\u00f3n",
       "l_example_sents": [
@@ -2353,7 +2353,7 @@
       ]
     }
   },
-  "entidad|NOUN": {
+  "entidad|NOUN|f": {
     "1": {
       "description_ES": "valor, importancia",
       "l_example_sents": [
@@ -2419,7 +2419,7 @@
       ]
     }
   },
-  "explotaci\u00f3n|NOUN": {
+  "explotaci\u00f3n|NOUN|f": {
     "1": {
       "description_ES": "(instalaciones destinadas a la) gesti\u00f3n y aprovechamiento de un negocio",
       "l_example_sents": [
@@ -2473,7 +2473,7 @@
       ]
     }
   },
-  "facturaci\u00f3n|NOUN": {
+  "facturaci\u00f3n|NOUN|f": {
     "1": {
       "description_ES": "entrega de un equipaje o de una mercanc\u00eda",
       "l_example_sents": [
@@ -2565,7 +2565,7 @@
       ]
     }
   },
-  "firma|NOUN": {
+  "firma|NOUN|f": {
     "1": {
       "description_ES": "acci\u00f3n y resultado de firmar",
       "l_example_sents": [
@@ -2673,7 +2673,7 @@
       ]
     }
   },
-  "gesti\u00f3n|NOUN": {
+  "gesti\u00f3n|NOUN|f": {
     "1": {
       "description_ES": "acci\u00f3n para lograr algo",
       "l_example_sents": [
@@ -2750,7 +2750,7 @@
       ]
     }
   },
-  "implantaci\u00f3n|NOUN": {
+  "implantaci\u00f3n|NOUN|f": {
     "1": {
       "description_ES": "establecimiento de una innovaci\u00f3n (tanto material como inmaterial)",
       "l_example_sents": [
@@ -2868,7 +2868,7 @@
       ]
     }
   },
-  "ingreso|NOUN": {
+  "ingreso|NOUN|m": {
     "1": {
       "description_ES": "entrada, incorporaci\u00f3n",
       "l_example_sents": [
@@ -2952,7 +2952,7 @@
       ]
     }
   },
-  "inversi\u00f3n|NOUN": {
+  "inversi\u00f3n|NOUN|f": {
     "1": {
       "description_ES": "alteraci\u00f3n",
       "l_example_sents": [
@@ -3033,7 +3033,7 @@
       ]
     }
   },
-  "liquidaci\u00f3n|NOUN": {
+  "liquidaci\u00f3n|NOUN|f": {
     "1": {
       "description_ES": "(conversi\u00f3n en dinero para el) pago de una deuda (especialmente en caso de quiebra)",
       "l_example_sents": [
@@ -3122,7 +3122,7 @@
       ]
     }
   },
-  "matriz|NOUN": {
+  "matriz|NOUN|f": {
     "1": {
       "description_ES": "\u00f3rgano en el que se desarrolla el feto",
       "l_example_sents": [
@@ -3236,7 +3236,7 @@
       ]
     }
   },
-  "mercado|NOUN": {
+  "mercado|NOUN|m": {
     "1": {
       "description_ES": "edificio o recinto con tiendas",
       "l_example_sents": [
@@ -3321,7 +3321,7 @@
       ]
     }
   },
-  "operaci\u00f3n|NOUN": {
+  "operaci\u00f3n|NOUN|f": {
     "1": {
       "description_ES": "realizaci\u00f3n de una o varias actividades (comerciales, delictivas, etc.)",
       "l_example_sents": [
@@ -3454,7 +3454,7 @@
       ]
     }
   },
-  "operador|NOUN": {
+  "operador|NOUN|m": {
     "1": {
       "description_ES": "persona especializada en el manejo de aparatos (especialmente aparatos t\u00e9cnicos)",
       "l_example_sents": [
@@ -3535,7 +3535,7 @@
       ]
     }
   },
-  "organismo|NOUN": {
+  "organismo|NOUN|m": {
     "1": {
       "description_ES": "(conjunto de \u00f3rganos de un) ser vivo",
       "l_example_sents": [
@@ -3597,7 +3597,7 @@
       ]
     }
   },
-  "participaci\u00f3n|NOUN": {
+  "participaci\u00f3n|NOUN|f": {
     "1": {
       "description_ES": "intervenci\u00f3n en una actividad",
       "l_example_sents": [
@@ -3669,7 +3669,7 @@
       ]
     }
   },
-  "plataforma|NOUN": {
+  "plataforma|NOUN|f": {
     "1": {
       "description_ES": "superficie horizontal elevada",
       "l_example_sents": [
@@ -3810,7 +3810,7 @@
       ]
     }
   },
-  "pol\u00edtica|NOUN": {
+  "pol\u00edtica|NOUN|f": {
     "1": {
       "description_ES": "ciencia y actividad referente a la organizaci\u00f3n de las sociedades humanas",
       "l_example_sents": [
@@ -3875,7 +3875,7 @@
       ]
     }
   },
-  "pr\u00e9stamo|NOUN": {
+  "pr\u00e9stamo|NOUN|m": {
     "1": {
       "description_ES": "entrega provisional de un objeto a condici\u00f3n de que sea devuelto",
       "l_example_sents": [
@@ -3920,7 +3920,7 @@
       ]
     }
   },
-  "rebaja|NOUN": {
+  "rebaja|NOUN|f": {
     "1": {
       "description_ES": "disminuci\u00f3n",
       "l_example_sents": [
@@ -3998,7 +3998,7 @@
       ]
     }
   },
-  "saneamiento|NOUN": {
+  "saneamiento|NOUN|m": {
     "1": {
       "description_ES": "dotaci\u00f3n de condiciones higi\u00e9nicas",
       "l_example_sents": [
@@ -4058,7 +4058,7 @@
       ]
     }
   },
-  "sector|NOUN": {
+  "sector|NOUN|m": {
     "1": {
       "description_ES": "secci\u00f3n de una superficie",
       "l_example_sents": [
@@ -4191,7 +4191,7 @@
       ]
     }
   },
-  "segmento|NOUN": {
+  "segmento|NOUN|m": {
     "1": {
       "description_ES": "parte de un todo f\u00edsico",
       "l_example_sents": [
@@ -4274,7 +4274,7 @@
       ]
     }
   },
-  "subida|NOUN": {
+  "subida|NOUN|f": {
     "1": {
       "description_ES": "(terreno inclinado en que se hace un) paso a un lugar m\u00e1s alto",
       "l_example_sents": [
@@ -4340,7 +4340,7 @@
       ]
     }
   },
-  "tasa|NOUN": {
+  "tasa|NOUN|f": {
     "1": {
       "description_ES": "tributo, pago",
       "l_example_sents": [
@@ -4441,7 +4441,7 @@
       ]
     }
   },
-  "valoraci\u00f3n|NOUN": {
+  "valoraci\u00f3n|NOUN|f": {
     "1": {
       "description_ES": "determinaci\u00f3n de una cantidad (especialmente de un precio)",
       "l_example_sents": [
@@ -4491,7 +4491,7 @@
       ]
     }
   },
-  "\u00e1rea|NOUN": {
+  "\u00e1rea|NOUN|f": {
     "1": {
       "description_ES": "territorio, extensi\u00f3n geogr\u00e1fica",
       "l_example_sents": [
