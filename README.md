@@ -1,5 +1,5 @@
 # sense-inventory-economics-50
-This repository contains the sense inventory used in the NLP4CALL2022 paper by Jasper Degraeuwe and Patrick Goethals. The inventory consists of 50 ambiguous Spanish words related to the domain of economics.
+This repository contains the sense inventory used in the [NLP4CALL2022 paper](https://research-publishing.net/manuscript?10.14705/rpnet.2022.61.1440) by Jasper Degraeuwe and Patrick Goethals. The inventory consists of 50 ambiguous Spanish words related to the domain of economics.
 ## Sense inventory file
 The file <code>senseInventory_economics_50.json</code> contains the sense inventory as a Python dictionary. The dictionary has 50 keys, one for each ambiguous item. The structure of the dictionary is illustrated by means of a simplified example (for the ambiguous items <code>divisa</code> and <code>subida</code>) in the following code block:
 ```python
